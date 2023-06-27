@@ -112,7 +112,7 @@ svg{
     bottom: 0;
 }
 
-@media screen and (max-width:300px){
+@media screen and (max-width:400px){
     body{
         background-color: hsl(30, 38%, 92%); 
     }
